@@ -1,0 +1,26 @@
+.navbar {
+  background-color: #047aed;
+  color: #fff;
+  height: 70px;
+}
+
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  overflow: auto;
+  padding: 0;
+}
+
+.navbar .flex {
+  justify-content: space-between;
+}
+
+.navbar a {
+  color: #fff;
+  padding: 10px;
+  margin: 0 5px;
+}
+
+.navbar a:hover {
+  border-bottom: 2px solid #fff;
+}
