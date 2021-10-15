@@ -1,7 +1,9 @@
+@import "./utilities/bg.css";
 @import "./utilities/btn.css";
 @import "./utilities/grid.css";
 @import "./utilities/margin.css";
 @import "./utilities/padding.css";
+@import "./utilities/text.css";
 
 .container {
     max-width: 1100px;

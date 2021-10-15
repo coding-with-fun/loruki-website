@@ -16,3 +16,23 @@
     background-color: transparent;
     border: 1px solid #fff;
 }
+
+.btn-primary {
+    background-color: var(--primary-color);
+    color: #fff;
+}
+
+.btn-secondary {
+    background-color: var(--secondary-color);
+    color: #fff;
+}
+
+.btn-dark {
+    background-color: var(--dark-color);
+    color: #fff;
+}
+
+.btn-light {
+    background-color: var(--light-color);
+    color: #333;
+}
