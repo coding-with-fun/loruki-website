@@ -17,3 +17,10 @@
     background-color: var(--light-color);
     color: #333;
 }
+
+.bg-primary a,
+.bg-secondary a,
+.bg-dark a,
+.bg-light a {
+    color: #fff;
+}

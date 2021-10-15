@@ -36,3 +36,10 @@
     background-color: var(--light-color);
     color: #333;
 }
+
+.btn-primary a,
+.btn-secondary a,
+.btn-dark a,
+.btn-light a {
+    color: #fff;
+}
