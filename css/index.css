@@ -1,4 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap");
+
+@import "./cli.css";
 @import "./navbar.css";
 @import "./showcase.css";
 @import "./stats.css";
