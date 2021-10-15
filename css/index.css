@@ -4,6 +4,7 @@
 @import "./variables.css";
 @import "./utilities/utilities.css";
 
+@import "./Features/index.css";
 @import "./Home/index.css";
 
 @import "./screens/mobile.css";
