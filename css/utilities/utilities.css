@@ -1,9 +1,9 @@
-@import "./utilities/bg.css";
-@import "./utilities/btn.css";
-@import "./utilities/grid.css";
-@import "./utilities/margin.css";
-@import "./utilities/padding.css";
-@import "./utilities/text.css";
+@import "./bg.css";
+@import "./btn.css";
+@import "./grid.css";
+@import "./margin.css";
+@import "./padding.css";
+@import "./text.css";
 
 ul {
     list-style: none;

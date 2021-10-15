@@ -1,13 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap");
 
-@import "./cli.css";
-@import "./cloud.css";
-@import "./languages.css";
 @import "./navbar.css";
-@import "./showcase.css";
-@import "./stats.css";
-@import "./utilities.css";
 @import "./variables.css";
+@import "./utilities/utilities.css";
+
+@import "./Home/index.css";
 
 @import "./screens/mobile.css";
 @import "./screens/tablet.css";
