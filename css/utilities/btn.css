@@ -39,7 +39,10 @@
 
 .btn-primary a,
 .btn-secondary a,
-.btn-dark a,
-.btn-light a {
+.btn-dark a {
     color: #fff;
+}
+
+.btn-light a {
+    color: #333;
 }

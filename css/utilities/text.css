@@ -33,3 +33,7 @@ h2 {
 .xl {
     font-size: 4rem;
 }
+
+.text-primary {
+    color: var(--primary-color);
+}

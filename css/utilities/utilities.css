@@ -1,3 +1,4 @@
+@import "./alert.css";
 @import "./bg.css";
 @import "./btn.css";
 @import "./grid.css";
@@ -38,4 +39,11 @@ img {
     box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
     padding: 20px;
     margin: 10px;
+}
+
+code,
+pre {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
 }

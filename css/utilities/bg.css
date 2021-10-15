@@ -1,26 +1,29 @@
 .bg-primary {
-    background-color: var(--primary-color);
+    background-color: var(--primary-color) !important;
     color: #fff;
 }
 
 .bg-secondary {
-    background-color: var(--secondary-color);
+    background-color: var(--secondary-color) !important;
     color: #fff;
 }
 
 .bg-dark {
-    background-color: var(--dark-color);
+    background-color: var(--dark-color) !important;
     color: #fff;
 }
 
 .bg-light {
-    background-color: var(--light-color);
+    background-color: var(--light-color) !important;
     color: #333;
 }
 
 .bg-primary a,
 .bg-secondary a,
-.bg-dark a,
-.bg-light a {
+.bg-dark a {
     color: #fff;
+}
+
+.bg-light a {
+    color: #333;
 }
