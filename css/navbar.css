@@ -17,3 +17,7 @@
 .navbar a:hover {
     border-bottom: 2px solid #fff;
 }
+
+.navbar ul {
+    display: flex;
+}

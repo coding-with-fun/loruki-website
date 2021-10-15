@@ -9,6 +9,9 @@
 @import "./utilities.css";
 @import "./variables.css";
 
+@import "./screens/mobile.css";
+@import "./screens/tablet.css";
+
 * {
     box-sizing: border-box;
     padding: 0;
