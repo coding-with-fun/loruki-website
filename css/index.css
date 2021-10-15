@@ -2,6 +2,7 @@
 
 @import "./navbar.css";
 @import "./variables.css";
+@import "./animation.css";
 @import "./utilities/utilities.css";
 
 @import "./Docs/index.css";

@@ -34,6 +34,10 @@
     overflow: visible;
 }
 
+.showcase-text {
+    animation: slideInFromLeft 1000ms ease-in;
+}
+
 .showcase-form {
     position: relative;
     top: 60px;
@@ -42,6 +46,7 @@
     padding: 40px;
     z-index: 100;
     justify-self: flex-end;
+    animation: slideInFromRight 1000ms ease-in;
 }
 
 .showcase-form .form-control {
